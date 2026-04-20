@@ -1,5 +1,6 @@
 # Clicker Simulator
-
+how to create ur own SQlite DataBase use this
+[Sqlite DataBase](https://github.com/SillyDev2026/Sqlite-DataBase)
 A Python clicker game built with Pygame.
 
 ## Features
