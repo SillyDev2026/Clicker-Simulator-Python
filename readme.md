@@ -35,4 +35,5 @@ python -m pip install pyinstaller
 ```
 after creating ur files in python
 ```bash
-pyinstaller --onefile --windowed ClickerSim.py -- example```
+pyinstaller --onefile --windowed ClickerSim.py -- example
+```
