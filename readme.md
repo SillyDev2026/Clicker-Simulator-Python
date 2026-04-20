@@ -24,11 +24,11 @@ python --version
 ----------------
 pygame installer
 python -m pip install pyinstaller
----------------------------------
+----------------
 then if installed
 try
------
 python -m ensurepip --upgrade
+-----------------------------
 python -m pip install --upgrade pip
 python -m pip install pyinstaller
 after creating ur files in python
