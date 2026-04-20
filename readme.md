@@ -23,13 +23,11 @@ make sure that ur python is upto date
 ```bash
 python --version
 ```
-----------------
-pygame installer```bash
+pygame installer
+```bash
 python -m pip install pyinstaller
 ```
-----------------
-then if installed
-tru
+then if installed then try this
 ```bash
 python -m ensurepip --upgrade
 python -m pip install --upgrade pip
