@@ -20,16 +20,21 @@ Go to Releases and download ClickerSim.exe
 
 ## how to install open cmd
 make sure that ur python is upto date
+```bash
 python --version
+```
 ----------------
-pygame installer
+pygame installer```bash
 python -m pip install pyinstaller
+```
 ----------------
 then if installed
-try
+tru
+```bash
 python -m ensurepip --upgrade
------------------------------
 python -m pip install --upgrade pip
 python -m pip install pyinstaller
+```
 after creating ur files in python
-pyinstaller --onefile --windowed ClickerSim.py -- example
+```bash
+pyinstaller --onefile --windowed ClickerSim.py -- example```
